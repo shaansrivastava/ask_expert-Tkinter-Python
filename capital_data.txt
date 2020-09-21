@@ -1,0 +1,68 @@
+India/Delhi
+China/Beijing
+Afghanistan/Kabul
+Albania/Tirana
+Algeria/Algeirs
+Argentina/Beunos Aires
+Armenia/Yerevan
+Australia/Canberra
+Austria/Canberra
+Bangladesh/Dhaka
+Barbados/Bridgetown
+Belgium/Brussels
+Bhutan/Thimphu
+Brazil/Brasilia
+Bulgaria/Sofia
+Canada/Ottawa
+Chile/Santiago
+Cuba/Havana
+Denmark/Copenhagen
+Egypt/Cairo
+France/Paris
+Germany/Berlin
+Ghana/Accra
+Greece/Athens
+Hungary/Budapest
+Iceland/Reykjavik
+Indonesia/Jakarta
+Iran/Tehran
+Iraq/Baghdad
+Ireland/Dublin
+Israel/Jerusalem
+Italy/Rome
+Japan/Tokyo
+Jamaica/Kingston
+Kuwait/Kuwait City
+Malaysia/Kuala Lumpur
+Maldives/Male
+Mauritius/Port Louis
+Mexico/Mexico City
+Morocco/Rabat
+Namibia/Windhoek
+Nepal/Kathmandu
+Netherlands/Amsterdam
+New Zealand/Wellington
+Nigeria/Abuja
+Norway/Oslo
+Oman/Muscat
+Pakistan/KMKB
+Portugal/Lisbon
+Philippines/Manila
+Russia/Moscow
+Saudi Arabia/Riyadh
+Serbia/Belgrade
+Singapore/Singapore
+South Africa/Cape Town
+Spain/Madrid
+Sri Lanka/Colomba
+Switzerland/Bern
+Syria/Damascus
+Thailand/Bangkok
+Turkey/Ankara
+Uganda/Kampala
+United Kingdom/London
+USA/Washington
+United States Of America/Washington
+United Arab Emirates/Abu Dhabi
+Vietnam/Hanoi
+Zimbabwe/Harare
